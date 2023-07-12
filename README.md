@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To start the service on localhost:3000, please run `npm run server` 
 
-## Feature
+## Features
 
 Aside from accomplishing the requirements for this coding challenge, this application features the following code of interest:
 
@@ -22,5 +22,5 @@ Aside from accomplishing the requirements for this coding challenge, this applic
 ## Wireframes
 ![Alt text](README.png?raw=true "Rough Wireframes")
 
-This is crude, but this is kind of what I envisioned. While the "author popup" was not implemented, the favorites, and click to show text were implemented (See `Feature` section)
+This is crude, but this is kind of what I envisioned. While the "author popup" was not implemented, the favorites, and click to show text were implemented (See `Features` section)
 
