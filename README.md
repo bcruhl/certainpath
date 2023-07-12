@@ -18,3 +18,9 @@ Aside from accomplishing the requirements for this coding challenge, this applic
 - feed posts are clickable if truncated (because they're longer than 2 lines)
 - Passes all Axe tests for 'bare minimum' a11y support
 - Application is responsive
+
+## Wireframes
+![Alt text](README.png?raw=true "Rough Wireframes")
+
+This is crude, but this is kind of what I envisioned. While the "author popup" was not implemented, the favorites, and click to show text were implemented (See `Feature` section)
+
