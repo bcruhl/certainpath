@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Installation and Launching the application
 
-To start the service on localhost:3000, please run `npm run server` 
+1. Clone the repo locally
+2. Run `npm install`
+3. Run `npm run server` to start the server at localhost:3000
 
 ## Features
 
